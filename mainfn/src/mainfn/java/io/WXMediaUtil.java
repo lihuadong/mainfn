@@ -7,7 +7,7 @@
  *  2015全智道(北京)科技有限公司-版权所有
  * 
  */
-package mainfn.io;
+package mainfn.java.io;
 
 
 import java.io.File;

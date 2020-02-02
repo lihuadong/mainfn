@@ -1,4 +1,4 @@
-package mainfn.io;
+package mainfn.java.io;
 
 import java.security.MessageDigest;
 
