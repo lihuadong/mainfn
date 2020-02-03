@@ -7,9 +7,9 @@ import java.security.NoSuchAlgorithmException;
 public class Sha256 {
 
 	/**
-	 * 利用java原生的类实现SHA256加密
+	 * 利用java原生的类实现SHA256签名
 	 * 
-	 * @param str 加密后的报文
+	 * @param str 签名后的报文
 	 * @return
 	 */
 	public static String getSHA256(String str) {
