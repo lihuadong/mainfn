@@ -1,4 +1,4 @@
-package maifn.java.util;
+package mainfn.java.util;
 
 public class ArrayListStudy {
 

@@ -1,4 +1,4 @@
-package maifn.java.security;
+package mainfn.java.security;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
