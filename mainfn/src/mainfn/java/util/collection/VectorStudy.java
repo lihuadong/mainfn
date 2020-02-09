@@ -1,4 +1,4 @@
-package mainfn.java.util.ollection;
+package mainfn.java.util.collection;
 
 public class VectorStudy {
 
