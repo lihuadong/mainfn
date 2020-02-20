@@ -13,6 +13,10 @@ package mainfn.java.io;
  * 
  * Escape
  * 
+ * 
+ * ECMAScript v3 已从标准中删除了 escape() 函数和 unescape() 函数，并反对使用它们，因此应该使用 decodeURI() 和 decodeURIComponent() 取而代之；
+ * 其中某些字符被替换成了十六进制的转义序列，但该方法不会对ASCII字母和数字进行编码，也不会下面这些ASCII标点符号进行编码：*@-_+./，其他所有的字符都会被转义序列替换；
+ * https://www.jianshu.com/p/599df12c2b54
  * 李华栋
  * 李华栋
  * 2016年7月27日 下午5:43:20
