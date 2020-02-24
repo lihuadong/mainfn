@@ -1,4 +1,4 @@
-package mainfn.java.io;
+package mainfn.java.io.serialize;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
