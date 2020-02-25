@@ -4,8 +4,12 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
-class Employee implements java.io.Serializable
-{
+
+//序列化分很多种，大多语言也都有自己的序列化方式，并且大多都有JSON序列化的解决方案，这个就是只保存属性的序列化。
+//序列化是用来持久化对象，方便传输、保存。
+//而java的字节码.class是给虚拟机解释执行的！两个毫无关系。 序列化由程序解析使用，字节码直接由虚拟机解释
+
+class Employee implements java.io.Serializable{
    /**
 	 * 
 	 */
