@@ -9,8 +9,6 @@ public class Base {
         String _value;
         String __1_value;
         String $$abc;
-        
-        
 	}
 
 }
