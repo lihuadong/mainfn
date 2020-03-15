@@ -10,5 +10,13 @@ public class DateDemo {
 	        
 	       // 使用 toString() 函数显示日期时间
 	       System.out.println(date.toString());
+	       // 使用 toString() 函数显示日期时间
+	       System.out.println(date.toString());
+	       // 使用 toString() 函数显示日期时间
+	       System.out.println(date.toString());
+	       // 使用 toString() 函数显示日期时间
+	       System.out.println(date.toString());
+	       // 使用 toString() 函数显示日期时间
+	       System.out.println(date.toString());
 	   }
 }
