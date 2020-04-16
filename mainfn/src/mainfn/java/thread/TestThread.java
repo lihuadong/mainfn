@@ -40,5 +40,11 @@ class RunnableDemo implements Runnable {
 	      
 	      RunnableDemo R2 = new RunnableDemo( "Thread-2");
 	      R2.start();
+	      
+	      for(int i=0;i<100;i++){
+		      RunnableDemo R3 = new RunnableDemo( "Thread-3");
+		      R3.start();
+	      }
+	      System.out.println("this is thread testing");
 	   }   
 	}
