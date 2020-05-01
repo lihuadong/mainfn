@@ -8,5 +8,11 @@
 </head>
 <body>
 <h1>程序员代码分享平台</h1>
+<h1>支持的语言如下</h1>
+C<br/>
+C++<br/>
+Java<br/>
+Go<br/>
+Rust<br/>
 </body>
 </html>
